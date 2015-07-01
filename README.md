@@ -1,2 +1,3 @@
 # demo4Disruptor
-这里是Disruptor的学习代码
+
+入门学习资料：http://ifeve.com/disruptor/
